@@ -1,9 +1,9 @@
 # pPassword
 A simple fivem password resource using adaptive cards.
 
-start yarn
-start webpack
-start password
+- start yarn
+- start webpack
+- start password
 
 # Useful links
 - [FiveM's cookbook about adaptive cards](https://forum.fivem.net/t/adaptive-cards-in-deferrals/612598)
